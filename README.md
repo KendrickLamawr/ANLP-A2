@@ -14,8 +14,8 @@ This repository contains the implementation for Assignment 2 of the Applied Natu
 │   ├── nlp_questions_unique.xlsx
 │   ├── ques_ans.xlsx # Stack Overflow questions + answers dataset
 │   └── ques_ans_processed.xlsx # CLEANED Stack Overflow questions + answers dataset
-├── rule_based/            # Results of implementation of rule-based NLP methods
-├── learning_based/        # Results of implementation of learning-based NLP methods
+├── rule_based/            # List of posts categorised by rule-based NLP methods
+├── learning_based/        # List of posts categorised by learning-based NLP methods
 ├── visualizations/        # Visualization of our dataset (high resolution)
 ├── wordcloud_data/        # Word clouds generated (high resolution)
 ├── .ipynb_checkpoints/   
