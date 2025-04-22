@@ -1,0 +1,11 @@
+requests
+pandas
+nltk
+spacy
+en_core_web_sm
+ftfy
+wordcloud
+scikit-learn
+matplotlib
+seaborn
+numpy
